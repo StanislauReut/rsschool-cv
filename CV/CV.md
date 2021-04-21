@@ -1,8 +1,8 @@
-Reut Stanislau
-Email: titoshka@inbox.ru , discord: titoshka #9308
-Get new knowledge, experience and develop.
-Swift ,Xcode, GitHub, BitBucket, Foundation, UIKit, CoreData, Real, CoreAnimation, AVFoundation
-pageControl.numberOfPages = 5
+1.Reut Stanislau
+2.Email: titoshka@inbox.ru , discord: titoshka #9308
+3.Get new knowledge, experience and develop.
+4.Swift ,Xcode, GitHub, BitBucket, Foundation, UIKit, CoreData, Real, CoreAnimation, AVFoundation
+5.pageControl.numberOfPages = 5
 pageControl.radius = 5
 pageControl.tintColor = .white
 pageControl.currentPageTintColor = textColor
@@ -48,5 +48,5 @@ addLabel.text = NSLocalizedString(“mood_Add_details”, comment: «")
        
     }
 }
-“iOS Developer” TeachMeSkills
-A2
+6.“iOS Developer” TeachMeSkills
+7.A2
