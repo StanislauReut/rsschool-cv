@@ -1,2 +1,1 @@
-
-# https://StanislauReut.github.io/rsschool-cv/cv
+ https://StanislauReut.github.io/rsschool-cv/cv
